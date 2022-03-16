@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">2PR_another</string>
+    <string-array name="temperature">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+        <item>Reaumur</item>
+        <item>Rankin</item>
+    </string-array>
+</resources>
